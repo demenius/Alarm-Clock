@@ -1,0 +1,33 @@
+.align			
+	Frame1:		.asciz	"Ding   0  0          "
+			.asciz	"     0  0            "
+			.asciz	"0  0  0  0           "
+			.asciz	" 0  0  0             "
+			.asciz	"  0  0               "
+			.asciz	"   0                 "
+			.asciz	"    0                "
+
+.align
+	Frame2:		.asciz	"          0          "
+			.asciz	"        0 0 0        "
+			.asciz	"        0 0 0        "
+			.asciz	"        0 0 0        "
+			.asciz	"        0 0 0        "
+			.asciz	"      0 0 0 0 0      "
+			.asciz	"                     "
+.align
+	Frame3:		.asciz	"          0  0   Dong"
+			.asciz	"            0  0     "
+			.asciz	"           0  0  0  0"
+			.asciz	"             0  0  0 "
+			.asciz	"               0  0  "
+			.asciz	"                 0   "
+			.asciz	"                0    "
+
+.align
+	Frame4:		.asciz	"          0          "
+			.asciz	"        0 0 0        "
+			.asciz	"        0 0 0        "
+			.asciz	"        0 0 0        "
+			.asciz	"        0 0 0        "
+			.asciz	"      0 0 0 0 0      "
